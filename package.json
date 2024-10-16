@@ -4,7 +4,7 @@
   "description": "nothing",
   "main": "server.js",
   "scripts": {
-    "test": "hello",
+    "test": "module",
     "start": "node server.js"
   },
   "repository": {
